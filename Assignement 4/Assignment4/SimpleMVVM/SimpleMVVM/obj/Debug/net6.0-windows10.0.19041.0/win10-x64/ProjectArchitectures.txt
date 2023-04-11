@@ -1,0 +1,1 @@
+C:\Users\sacha\OneDrive\Bureau\Assignement 4\Assignment4\SimpleMVVM\SimpleMVVM\SimpleMVVM.csproj;x64

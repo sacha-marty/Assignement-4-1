@@ -1,0 +1,64 @@
+C:\Users\wissa\OneDrive\Bureau\Assignment1async\Assignment1\BlazorApp\BlazorApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\wissa\OneDrive\Bureau\Assignment1async\Assignment1\BlazorApp\BlazorApp\bin\Debug\net7.0\appsettings.json
+C:\Users\wissa\OneDrive\Bureau\Assignment1async\Assignment1\BlazorApp\BlazorApp\bin\Debug\net7.0\BlazorApp.staticwebassets.runtime.json
+C:\Users\wissa\OneDrive\Bureau\Assignment1async\Assignment1\BlazorApp\BlazorApp\bin\Debug\net7.0\BlazorApp.exe
+C:\Users\wissa\OneDrive\Bureau\Assignment1async\Assignment1\BlazorApp\BlazorApp\bin\Debug\net7.0\BlazorApp.deps.json
+C:\Users\wissa\OneDrive\Bureau\Assignment1async\Assignment1\BlazorApp\BlazorApp\bin\Debug\net7.0\BlazorApp.runtimeconfig.json
+C:\Users\wissa\OneDrive\Bureau\Assignment1async\Assignment1\BlazorApp\BlazorApp\bin\Debug\net7.0\BlazorApp.dll
+C:\Users\wissa\OneDrive\Bureau\Assignment1async\Assignment1\BlazorApp\BlazorApp\bin\Debug\net7.0\BlazorApp.pdb
+C:\Users\wissa\OneDrive\Bureau\Assignment1async\Assignment1\BlazorApp\BlazorApp\obj\Debug\net7.0\BlazorApp.csproj.AssemblyReference.cache
+C:\Users\wissa\OneDrive\Bureau\Assignment1async\Assignment1\BlazorApp\BlazorApp\obj\Debug\net7.0\BlazorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wissa\OneDrive\Bureau\Assignment1async\Assignment1\BlazorApp\BlazorApp\obj\Debug\net7.0\BlazorApp.AssemblyInfoInputs.cache
+C:\Users\wissa\OneDrive\Bureau\Assignment1async\Assignment1\BlazorApp\BlazorApp\obj\Debug\net7.0\BlazorApp.AssemblyInfo.cs
+C:\Users\wissa\OneDrive\Bureau\Assignment1async\Assignment1\BlazorApp\BlazorApp\obj\Debug\net7.0\BlazorApp.csproj.CoreCompileInputs.cache
+C:\Users\wissa\OneDrive\Bureau\Assignment1async\Assignment1\BlazorApp\BlazorApp\obj\Debug\net7.0\BlazorApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wissa\OneDrive\Bureau\Assignment1async\Assignment1\BlazorApp\BlazorApp\obj\Debug\net7.0\BlazorApp.RazorAssemblyInfo.cache
+C:\Users\wissa\OneDrive\Bureau\Assignment1async\Assignment1\BlazorApp\BlazorApp\obj\Debug\net7.0\BlazorApp.RazorAssemblyInfo.cs
+C:\Users\wissa\OneDrive\Bureau\Assignment1async\Assignment1\BlazorApp\BlazorApp\obj\Debug\net7.0\staticwebassets\msbuild.BlazorApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\wissa\OneDrive\Bureau\Assignment1async\Assignment1\BlazorApp\BlazorApp\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorApp.props
+C:\Users\wissa\OneDrive\Bureau\Assignment1async\Assignment1\BlazorApp\BlazorApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorApp.props
+C:\Users\wissa\OneDrive\Bureau\Assignment1async\Assignment1\BlazorApp\BlazorApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorApp.props
+C:\Users\wissa\OneDrive\Bureau\Assignment1async\Assignment1\BlazorApp\BlazorApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\wissa\OneDrive\Bureau\Assignment1async\Assignment1\BlazorApp\BlazorApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\wissa\OneDrive\Bureau\Assignment1async\Assignment1\BlazorApp\BlazorApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\wissa\OneDrive\Bureau\Assignment1async\Assignment1\BlazorApp\BlazorApp\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\wissa\OneDrive\Bureau\Assignment1async\Assignment1\BlazorApp\BlazorApp\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\wissa\OneDrive\Bureau\Assignment1async\Assignment1\BlazorApp\BlazorApp\obj\Debug\net7.0\scopedcss\bundle\BlazorApp.styles.css
+C:\Users\wissa\OneDrive\Bureau\Assignment1async\Assignment1\BlazorApp\BlazorApp\obj\Debug\net7.0\scopedcss\projectbundle\BlazorApp.bundle.scp.css
+C:\Users\wissa\OneDrive\Bureau\Assignment1async\Assignment1\BlazorApp\BlazorApp\obj\Debug\net7.0\BlazorApp.dll
+C:\Users\wissa\OneDrive\Bureau\Assignment1async\Assignment1\BlazorApp\BlazorApp\obj\Debug\net7.0\refint\BlazorApp.dll
+C:\Users\wissa\OneDrive\Bureau\Assignment1async\Assignment1\BlazorApp\BlazorApp\obj\Debug\net7.0\BlazorApp.pdb
+C:\Users\wissa\OneDrive\Bureau\Assignment1async\Assignment1\BlazorApp\BlazorApp\obj\Debug\net7.0\BlazorApp.genruntimeconfig.cache
+C:\Users\wissa\OneDrive\Bureau\Assignment1async\Assignment1\BlazorApp\BlazorApp\obj\Debug\net7.0\ref\BlazorApp.dll
+C:\Users\sacha\OneDrive\Bureau\Assignement 4\Assignment4\BlazorApp\BlazorApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\sacha\OneDrive\Bureau\Assignement 4\Assignment4\BlazorApp\BlazorApp\bin\Debug\net7.0\appsettings.json
+C:\Users\sacha\OneDrive\Bureau\Assignement 4\Assignment4\BlazorApp\BlazorApp\bin\Debug\net7.0\BlazorApp.staticwebassets.runtime.json
+C:\Users\sacha\OneDrive\Bureau\Assignement 4\Assignment4\BlazorApp\BlazorApp\bin\Debug\net7.0\BlazorApp.exe
+C:\Users\sacha\OneDrive\Bureau\Assignement 4\Assignment4\BlazorApp\BlazorApp\bin\Debug\net7.0\BlazorApp.deps.json
+C:\Users\sacha\OneDrive\Bureau\Assignement 4\Assignment4\BlazorApp\BlazorApp\bin\Debug\net7.0\BlazorApp.runtimeconfig.json
+C:\Users\sacha\OneDrive\Bureau\Assignement 4\Assignment4\BlazorApp\BlazorApp\bin\Debug\net7.0\BlazorApp.dll
+C:\Users\sacha\OneDrive\Bureau\Assignement 4\Assignment4\BlazorApp\BlazorApp\bin\Debug\net7.0\BlazorApp.pdb
+C:\Users\sacha\OneDrive\Bureau\Assignement 4\Assignment4\BlazorApp\BlazorApp\obj\Debug\net7.0\BlazorApp.csproj.AssemblyReference.cache
+C:\Users\sacha\OneDrive\Bureau\Assignement 4\Assignment4\BlazorApp\BlazorApp\obj\Debug\net7.0\BlazorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sacha\OneDrive\Bureau\Assignement 4\Assignment4\BlazorApp\BlazorApp\obj\Debug\net7.0\BlazorApp.AssemblyInfoInputs.cache
+C:\Users\sacha\OneDrive\Bureau\Assignement 4\Assignment4\BlazorApp\BlazorApp\obj\Debug\net7.0\BlazorApp.AssemblyInfo.cs
+C:\Users\sacha\OneDrive\Bureau\Assignement 4\Assignment4\BlazorApp\BlazorApp\obj\Debug\net7.0\BlazorApp.csproj.CoreCompileInputs.cache
+C:\Users\sacha\OneDrive\Bureau\Assignement 4\Assignment4\BlazorApp\BlazorApp\obj\Debug\net7.0\BlazorApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sacha\OneDrive\Bureau\Assignement 4\Assignment4\BlazorApp\BlazorApp\obj\Debug\net7.0\BlazorApp.RazorAssemblyInfo.cache
+C:\Users\sacha\OneDrive\Bureau\Assignement 4\Assignment4\BlazorApp\BlazorApp\obj\Debug\net7.0\BlazorApp.RazorAssemblyInfo.cs
+C:\Users\sacha\OneDrive\Bureau\Assignement 4\Assignment4\BlazorApp\BlazorApp\obj\Debug\net7.0\staticwebassets\msbuild.BlazorApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sacha\OneDrive\Bureau\Assignement 4\Assignment4\BlazorApp\BlazorApp\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorApp.props
+C:\Users\sacha\OneDrive\Bureau\Assignement 4\Assignment4\BlazorApp\BlazorApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorApp.props
+C:\Users\sacha\OneDrive\Bureau\Assignement 4\Assignment4\BlazorApp\BlazorApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorApp.props
+C:\Users\sacha\OneDrive\Bureau\Assignement 4\Assignment4\BlazorApp\BlazorApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\sacha\OneDrive\Bureau\Assignement 4\Assignment4\BlazorApp\BlazorApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\sacha\OneDrive\Bureau\Assignement 4\Assignment4\BlazorApp\BlazorApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\sacha\OneDrive\Bureau\Assignement 4\Assignment4\BlazorApp\BlazorApp\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\sacha\OneDrive\Bureau\Assignement 4\Assignment4\BlazorApp\BlazorApp\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\sacha\OneDrive\Bureau\Assignement 4\Assignment4\BlazorApp\BlazorApp\obj\Debug\net7.0\scopedcss\bundle\BlazorApp.styles.css
+C:\Users\sacha\OneDrive\Bureau\Assignement 4\Assignment4\BlazorApp\BlazorApp\obj\Debug\net7.0\scopedcss\projectbundle\BlazorApp.bundle.scp.css
+C:\Users\sacha\OneDrive\Bureau\Assignement 4\Assignment4\BlazorApp\BlazorApp\obj\Debug\net7.0\BlazorApp.dll
+C:\Users\sacha\OneDrive\Bureau\Assignement 4\Assignment4\BlazorApp\BlazorApp\obj\Debug\net7.0\refint\BlazorApp.dll
+C:\Users\sacha\OneDrive\Bureau\Assignement 4\Assignment4\BlazorApp\BlazorApp\obj\Debug\net7.0\BlazorApp.pdb
+C:\Users\sacha\OneDrive\Bureau\Assignement 4\Assignment4\BlazorApp\BlazorApp\obj\Debug\net7.0\BlazorApp.genruntimeconfig.cache
+C:\Users\sacha\OneDrive\Bureau\Assignement 4\Assignment4\BlazorApp\BlazorApp\obj\Debug\net7.0\ref\BlazorApp.dll
